@@ -50,7 +50,7 @@
 <br />
 
 ---
-[![Hicham's GitHub stats](https://github-readme-stats.vercel.app/api?username=HichamAf&count_private=true&show_icons=true&hide=contribs)
+[![Hicham's GitHub stats](https://github-readme-stats.vercel.app/api?username=HichamAf&count_private=true&show_icons=true&hide=contribs)]
 
 [website]: https://HichamAf.github.io
 [twitter]: https://twitter.com/HichamAfilali
