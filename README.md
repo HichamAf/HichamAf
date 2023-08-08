@@ -11,17 +11,15 @@
 
 - 🔭 I’m currently studing Information Technology at Metropolia University of Applied Sciences.
 - 🌱 I completed multiple coursework:<br/>
-		-> Programming Fundamentals
-		<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300"><path d="m218.62 29.953-105.41 96.92L54.301 82.47 29.955 96.64l58.068 53.359-58.068 53.359 24.346 14.212 58.909-44.402 105.41 96.878 51.424-24.976V54.93zm0 63.744v112.6l-74.719-56.302z" fill="#2196f3"/></svg>
- (Python, C#, C++, Java)<br/>
-		-> Object Oriented Programming (OOP)<br/>
-		-> Algorithms and Data Structures<br/>
-		-> Relational Databases & SQL<br/>
-		-> Basics of mobile software development<br/>
-		-> Fundamentals of Web Development (HTML, CSS, JavaScript)<br/>
-		-> IP-Networks<br/>
-		-> Linux Essentials<br/>
-		-> RESTful web services<br/>
+		- Programming Fundamentals (Python, C#, C++, Java)<br/>
+		- Object Oriented Programming (OOP)<br/>
+		- Algorithms and Data Structures<br/>
+		- Relational Databases & SQL<br/>
+		- Basics of mobile software development<br/>
+		- Fundamentals of Web Development (HTML, CSS, JavaScript)<br/>
+		- IP-Networks<br/>
+		- Linux Essentials<br/>
+		- RESTful web services<br/>
 - 🥅 2024 Goals: Get my degree.
 - 📫 How to reach me **hicham.afilali@outlook.com**
 - 👯 I’m looking to collaborate with other developers
