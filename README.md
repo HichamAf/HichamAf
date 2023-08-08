@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 <br/> I'm Hicham Afilali</h1>
+<h1 align="center">Hi! I'm Hicham 👋 </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HichamAf&label=Profile%20views&color=0e75b6&style=flat" alt="HichamAf" /> </p>
 
@@ -22,7 +22,7 @@
 - 🥅 2024 Goals: Get my degree.
 - 📫 How to reach me **hicham.afilali@outlook.com**
 - 👯 I’m looking to collaborate with other developers
-- ⚡ Fun fact **I love to learn all about programming technology**
+- ⚡ Fun fact **I love to learn all about programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
