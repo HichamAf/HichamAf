@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋 <br/> I'm Hicham Afilali</h1>
-<h3 align="center">A passionate Web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HichamAf&label=Profile%20views&color=0e75b6&style=flat" alt="HichamAf" /> </p>
 
@@ -7,7 +6,7 @@
 [![Website](https://img.shields.io/website?label=HichamAf.github.io&style=for-the-badge&url=https%3A%2F%2FHichamAF.github.io)](https://HichamAf.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/HichamAfilali?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FHichamAf&screen_name=HichamAfilali)
 
-## I'm a Cat Dad, IT Geek, Developer, and Community Lover!! 
+## I'm a passionate developer, and Community Lover!! 
 
 - 🔭 I’m currently studing Information Technology at Metropolia University of Applied Sciences.
 - 🌱 I completed multiple coursework:<br/>
