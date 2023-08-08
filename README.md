@@ -8,9 +8,9 @@
 
 ## I'm a passionate developer, and Community Lover!! 
 
-- 🔭 I’m currently studing Information Technology at Metropolia University of Applied Sciences.
+- 🔭 I'm currently studying Information Technology at Metropolia University of Applied Sciences.
 - 🌱 I completed multiple coursework:<br/>
-		- Programming Fundamentals (Python, C#, C++, Java)<br/>
+		- Programming Fundamentals (Java, C#, C++, Python)<br/>
 		- Object Oriented Programming (OOP)<br/>
 		- Algorithms and Data Structures<br/>
 		- Relational Databases & SQL<br/>
