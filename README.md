@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently studing Information Technology at Metropolia University of Applied Sciences.
 - 🌱 I completed multiple coursework:
-		* Programming Fundamentals (Python, C#, C++, Java)
-		* Object Oriented Programming (OOP)
-		* Algorithms and Data Structures
-		* Relational Databases & SQL
-		* Basics of mobile software development
-		* Fundamentals of Web Development (HTML, CSS, JavaScript)
-		* IP-Networks
-		* Linux Essentials
-		* RESTful web services
+		- Programming Fundamentals (Python, C#, C++, Java)
+		- Object Oriented Programming (OOP)
+		- Algorithms and Data Structures
+		- Relational Databases & SQL
+		- Basics of mobile software development
+		- Fundamentals of Web Development (HTML, CSS, JavaScript)
+		- IP-Networks
+		- Linux Essentials
+		- RESTful web services
 - 🥅 2024 Goals: Get my degree.
 - 👯 I’m looking to collaborate with other developers
 - ⚡ Fun fact: I once lost 16kgs in 2 months
