@@ -10,16 +10,16 @@
 
 - 🔭 I'm currently studying Information Technology at Metropolia University of Applied Sciences.
 - 🌱 Relevant Coursework:<br>
-	- Programming Fundamentals (Java, C#, C++, Python)<br>
-	- Object Oriented Programming (OOP)<br>
-	- Algorithms and Data Structures<br>
-	- Relational Databases & SQL<br>
-	- Basics of mobile software development<br>
-	- Fundamentals of Web Development (HTML, CSS, JavaScript)<br>
 	- IP-Networks<br>
 	- Linux Essentials<br>
+	- Programming Fundamentals (Java, C#, C++, Python)<br>
+	- OOP<br>
+	- Algorithms and Data Structures<br>
+	- Relational Databases & SQL<br>
+	- Mobile software development<br>
+	- Web Development (HTML, CSS, JavaScript)<br>
 	- RESTful web services<br>
-- 🥅 2024 Goals: Get my degree.
+- 🥅 2024 Goals: Certified Information Systems Security Professional (CISSP).
 - 📫 How to reach me **hicham.afilali@outlook.com**
 - 👯 I’m looking to collaborate with other developers
 - ⚡ Fun fact **I love to learn everything related to technology**
