@@ -57,7 +57,13 @@
 <br />
 
 ---
-![Hicham's GitHub stats](https://github-readme-stats.vercel.app/api?username=HichamAf&count_private=true&show_icons=true&hide=contribs)
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HichamAf&show_icons=true&locale=en&layout=compact" alt="axg-coder" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HichamAf&show_icons=true&locale=en" alt="HichamAf" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HamasAtr&" alt="HamasAtr" /></p>
 
 [website]: https://HichamAf.github.io
 [linkedin]: https://linkedin.com/in/hichamafilali
