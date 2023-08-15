@@ -1,5 +1,6 @@
 <h1 align="center">Hi! I'm Hicham 👋 </h1>
 
+<iframe src="https://giphy.com/embed/UtnxCnjWAOL1J6TNUR" width="480" height="306" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/UtnxCnjWAOL1J6TNUR">via GIPHY</a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HichamAf&label=Profile%20views&color=0e75b6&style=flat" alt="HichamAf" /></p>
 
 <img align="right" alt="codingGuy" width="200" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=740&t=st=1671016841~exp=1671017441~hmac=767f61e11aee4c1dea49c08455d6dcac140e046b4384afd598b9b7ed45c0c434" /> </p>
@@ -9,7 +10,7 @@
 ## I'm a passionate developer, and Community Lover!! 
 
 - 🔭 I'm currently studying Information Technology at Metropolia University of Applied Sciences.
-- 🌱 I completed multiple coursework:<br/>
+- 🌱 Relevant coursework:<br/>
 		- Programming Fundamentals (Java, C#, C++, Python)<br/>
 		- Object Oriented Programming (OOP)<br/>
 		- Algorithms and Data Structures<br/>
@@ -58,7 +59,7 @@
 <br />
 
 ---
-![Hicham's GitHub stats](https://github-readme-stats.vercel.app/api?username=HichamAf&count_private=true&show_icons=true&hide=contribs)
+[![Hicham's GitHub stats](https://github-readme-stats.vercel.app/api?username=HichamAf&count_private=true&show_icons=true&hide=contribs)]
 
 [website]: https://HichamAf.github.io
 [linkedin]: https://linkedin.com/in/hichamafilali
