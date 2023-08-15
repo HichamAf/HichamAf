@@ -57,6 +57,7 @@
 <br />
 
 ---
+
 ![Hicham's GitHub stats](https://github-readme-stats.vercel.app/api?username=HichamAf&count_private=true&show_icons=true&hide=contribs)
 
 [website]: https://HichamAf.github.io
@@ -65,7 +66,3 @@
 [twitter]: https://twitter.com/HichamAfilali
 [Instagram]: https://www.instagram.com/aksilazar/
 [Youtube]: https://www.youtube.com/@azouranzar6285
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HichamAf&show_icons=true&locale=en&layout=compact" alt="HichamAf" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HichamAf&show_icons=true&locale=en" alt="HichamAf" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HichamAf&" alt="HichamAf" /></p>
