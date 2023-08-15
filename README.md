@@ -33,6 +33,7 @@
 [<img align="left" alt="Gonçalo Peres | Instagram" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4.1.0/icons/instagram.svg" />][Instagram]
 [<img align="left" alt="Gonçalo Peres | YouTube" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4.1.0/icons/youtube.svg" />][Youtube]
 [<img align="left" alt="Gonçalo Peres | StackExchange" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4.1.0/icons/stackoverflow.svg" />][stackoverflow]
+</p>
 <br />
 
 <h3 align="left">🚀  Some Tools and Programming Languages I Have Used and Learned</h3>
@@ -63,7 +64,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HichamAf&show_icons=true&locale=en" alt="HichamAf" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HichamAf&" alt="HichamAf" /></p>
 
-[![Hicham's GitHub stats](https://github-readme-stats.vercel.app/api?username=HichamAf&count_private=true&show_icons=true&hide=contribs)]
+[Hicham's GitHub stats](https://github-readme-stats.vercel.app/api?username=HichamAf&count_private=true&show_icons=true&hide=contribs)
 
 [website]: https://HichamAf.github.io
 [linkedin]: https://linkedin.com/in/hichamafilali
