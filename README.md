@@ -10,6 +10,7 @@
 ## I'm a passionate developer, and Community Lover!! 
 
 - 🔭 I'm currently studying Information Technology at Metropolia University of Applied Sciences.
+<<<<<<< HEAD
 - 🌱 Relevant coursework:<br/>
 		- Programming Fundamentals (Java, C#, C++, Python)<br/>
 		- Object Oriented Programming (OOP)<br/>
@@ -21,9 +22,22 @@
 		- Linux Essentials<br/>
 		- RESTful web services<br/>
 - 🥅 2024 Goals: Get my degree.
+=======
+- 🌱 Relevant Coursework:<br>
+	- IP-Networks<br>
+	- Linux Essentials<br>
+	- Programming Fundamentals (Java, C#, C++, Python)<br>
+	- OOP<br>
+	- Algorithms and Data Structures<br>
+	- Relational Databases & SQL<br>
+	- Mobile software development<br>
+	- Web Development (HTML, CSS, JavaScript)<br>
+	- RESTful web services<br>
+- 🥅 2024 Goals: Certified Information Systems Security Professional (CISSP).
+>>>>>>> f85abc4dd6dbb224980d1423ad718701664d2bfb
 - 📫 How to reach me **hicham.afilali@outlook.com**
 - 👯 I’m looking to collaborate with other developers
-- ⚡ Fun fact **I love to learn all about programming**
+- ⚡ Fun fact **I love to learn everything related to technology**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
