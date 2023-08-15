@@ -1,7 +1,9 @@
 <h1 align="center">Hi! I'm Hicham 👋 </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HichamAf&label=Profile%20views&color=0e75b6&style=flat" alt="HichamAf" /></p>
-<img align="right" alt="codingGuy" width="200" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=740&t=st=1671016841~exp=1671017441~hmac=767f61e11aee4c1dea49c08455d6dcac140e046b4384afd598b9b7ed45c0c434" /> </p>
+
+<img align="right" alt="codingGuy" width="200" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=740&t=st=1671016841~exp=1671017441~hmac=767f61e11aee4c1dea49c08455d6dcac140e046b4384afd598b9b7ed45c0c434" />
+
 [![Website](https://img.shields.io/website?label=HichamAf.github.io&style=for-the-badge&url=https%3A%2F%2FHichamAF.github.io)](https://HichamAf.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/HichamAfilali?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FHichamAf&screen_name=HichamAfilali)
 
@@ -25,14 +27,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Gonçalo Peres | Instagram" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4.1.0/icons/instagram.svg" />][Instagram]
 [<img align="left" alt="Gonçalo Peres | YouTube" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4.1.0/icons/youtube.svg" />][Youtube]
 [<img align="left" alt="Gonçalo Peres | StackExchange" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4.1.0/icons/stackoverflow.svg" />][stackoverflow]
-
 <br />
 
 <h3 align="left">🚀  Some Tools and Programming Languages I Have Used and Learned</h3>
