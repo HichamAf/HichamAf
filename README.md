@@ -58,16 +58,13 @@
 
 ---
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HichamAf&show_icons=true&locale=en&layout=compact" alt="axg-coder" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HichamAf&show_icons=true&locale=en" alt="HichamAf" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HamasAtr&" alt="HamasAtr" /></p>
-
 [website]: https://HichamAf.github.io
 [linkedin]: https://linkedin.com/in/hichamafilali
 [stackoverflow]: https://stackoverflow.com/users/15039665/hicham?tab=profile
 [twitter]: https://twitter.com/HichamAfilali
 [Instagram]: https://www.instagram.com/aksilazar/
 [Youtube]: https://www.youtube.com/@azouranzar6285
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HichamAf&show_icons=true&locale=en&layout=compact" alt="axg-coder" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HichamAf&show_icons=true&locale=en" alt="HichamAf" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HamasAtr&" alt="HamasAtr" /></p>
