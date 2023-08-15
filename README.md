@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I'm Hicham 👋 </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HichamAf&label=Profile%20views&color=0e75b6&style=flat" alt="HichamAf" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HichamAf&label=Profile%20views&color=0e75b6&style=flat" alt="HichamAf" />
 
 <img align="right" alt="codingGuy" width="200" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=740&t=st=1671016841~exp=1671017441~hmac=767f61e11aee4c1dea49c08455d6dcac140e046b4384afd598b9b7ed45c0c434" />
 
@@ -27,14 +27,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
 [<img align="left" alt="Gonçalo Peres | Instagram" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4.1.0/icons/instagram.svg" />][Instagram]
 [<img align="left" alt="Gonçalo Peres | YouTube" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4.1.0/icons/youtube.svg" />][Youtube]
-[<img align="left" alt="Gonçalo Peres | StackExchange" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4.1.0/icons/stackoverflow.svg" />][stackoverflow]
-</p>
-<br />
+[<img align="left" alt="Gonçalo Peres | StackExchange" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4.1.0/icons/stackoverflow.svg" />][Stackoverflow]
 
 <h3 align="left">🚀  Some Tools and Programming Languages I Have Used and Learned</h3>
 
@@ -66,9 +64,9 @@
 
 [Hicham's GitHub stats](https://github-readme-stats.vercel.app/api?username=HichamAf&count_private=true&show_icons=true&hide=contribs)
 
-[website]: https://HichamAf.github.io
-[linkedin]: https://linkedin.com/in/hichamafilali
-[stackoverflow]: https://stackoverflow.com/users/15039665/hicham?tab=profile
-[twitter]: https://twitter.com/HichamAfilali
+[Website]: https://HichamAf.github.io
+[Linkedin]: https://linkedin.com/in/hichamafilali
+[Stackoverflow]: https://stackoverflow.com/users/15039665/hicham?tab=profile
+[Twitter]: https://twitter.com/HichamAfilali
 [Instagram]: https://www.instagram.com/aksilazar/
 [Youtube]: https://www.youtube.com/@azouranzar6285
