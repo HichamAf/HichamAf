@@ -1,6 +1,8 @@
 <h1 align="center">Hi! I'm Hicham 👋 </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HichamAf&label=Profile%20views&color=0e75b6&style=flat" alt="HichamAf" /> </p>
+<p align="center"> <a href="https://twitter.com/nestframework" target="_blank"><img src="https://img.shields.io/twitter/follow/nestframework.svg?style=social&label=Follow"></a>  </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HichamAf&label=Profile%20views&color=0e75b6&style=flat" alt="HichamAf" /></p>
 
 <img align="right" alt="codingGuy" width="200" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=740&t=st=1671016841~exp=1671017441~hmac=767f61e11aee4c1dea49c08455d6dcac140e046b4384afd598b9b7ed45c0c434" /> </p>
 [![Website](https://img.shields.io/website?label=HichamAf.github.io&style=for-the-badge&url=https%3A%2F%2FHichamAF.github.io)](https://HichamAf.github.io)
