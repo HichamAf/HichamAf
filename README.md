@@ -2,8 +2,7 @@
 [![Website](https://img.shields.io/website?label=HichamAf.github.io&style=for-the-badge&url=https%3A%2F%2FHichamAF.github.io)](https://HichamAf.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/HichamAfilali?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FHichamAf&screen_name=HichamAfilali)
 
-### 📈 GitHub stats
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=HichamAf&theme=dracula"/></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=HichamAf&theme=algolia"/></p>
 
 ## I'm a passionate developer, and Community Lover!!
 - 🔭 I'm currently studying Information Technology at Metropolia University of Applied Sciences.
@@ -18,9 +17,15 @@
 	- Web Development (HTML, CSS, JavaScript)<br>
 	- RESTful web services<br>
 - 🥅 2024 Goals: Certified Information Systems Security Professional (CISSP).
-- 📫 How to reach me **hicham.afilali@outlook.com**
+- 📫 How to reach me <a href="https://HichamAf.github.io/"><img src="https://img.shields.io/badge/WEBSITE-12100E?logo=html5&color=1DA1F2&logoColor=white" /></a>
 - 👯 I’m looking to collaborate with other developers
 - ⚡ Fun fact **I love to learn new technologies**
+
+### 🚀 Some Tools and Programming Languages I Have Used and Learned
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,cs,cpp,js,aws,vscode,visualstudio,idea,linux,blender,ai,figma,github,stackoverflow)](https://skillicons.dev)
+
+### 🙊 A little laughter for you
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=algolia)
 
 ## Connect with me
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]
@@ -28,16 +33,6 @@
 [<img align="left" alt="Gonçalo Peres | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4.1.0/icons/instagram.svg" />][Instagram]
 [<img align="left" alt="Gonçalo Peres | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4.1.0/icons/youtube.svg" />][Youtube]
 [<img align="left" alt="Gonçalo Peres | StackExchange" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4.1.0/icons/stackoverflow.svg" />][Stackoverflow]
-
----
-
-### 🚀 Some Tools and Programming Languages I Have Used and Learned
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,js,cs,cpp,aws,vscode,visualstudio,idea,linux,blender,ai,figma,github,stackoverflow)](https://skillicons.dev)
-
----
-
-### 🙊 A little laughter for you
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=dracula)
 
 [Website]: https://HichamAf.github.io
 [Linkedin]: https://linkedin.com/in/hichamafilali
