@@ -29,6 +29,8 @@
 [<img align="left" alt="Gonçalo Peres | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4.1.0/icons/youtube.svg" />][Youtube]
 [<img align="left" alt="Gonçalo Peres | StackExchange" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4.1.0/icons/stackoverflow.svg" />][Stackoverflow]
 
+---
+
 ### 🚀 Some Tools and Programming Languages I Have Used and Learned
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,js,cs,cpp,aws,vscode,visualstudio,idea,linux,blender,ai,figma,github,stackoverflow)](https://skillicons.dev)
 
