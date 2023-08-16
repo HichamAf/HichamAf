@@ -1,9 +1,17 @@
+<<<<<<< HEAD
 ### Hello, welcome to my GitHub! <img src="https://raw.githubusercontent.com/zluvsand/zluvsand/master/wave.gif" height="25px" width="25px">
 [![Website](https://img.shields.io/website?label=HichamAf.github.io&style=for-the-badge&url=https%3A%2F%2FHichamAF.github.io)](https://HichamAf.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/HichamAfilali?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FHichamAf&screen_name=HichamAfilali)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HichamAf&" alt="HichamAf" /></p>
 
 ### I'm a passionate developer, and Community Lover!!
+=======
+## Hello, welcome to my GitHub! 
+[![Website](https://img.shields.io/website?label=HichamAf.github.io&style=for-the-badge&url=https%3A%2F%2FHichamAF.github.io)](https://HichamAf.github.io)
+[![Twitter Follow](https://img.shields.io/twitter/follow/HichamAfilali?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FHichamAf&screen_name=HichamAfilali)
+<br>
+## I'm a passionate developer, and Community Lover!!
+>>>>>>> 8657a495a9e0ea7b939c45fb306ac1192fbbec43
 - 🔭 I'm currently studying Information Technology at Metropolia University of Applied Sciences.
 - 🌱 Relevant Coursework:<br>
 	- IP-Networks<br>
@@ -26,7 +34,9 @@
 [<img align="left" alt="Gonçalo Peres | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4.1.0/icons/instagram.svg" />][Instagram]
 [<img align="left" alt="Gonçalo Peres | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4.1.0/icons/youtube.svg" />][Youtube]
 [<img align="left" alt="Gonçalo Peres | StackExchange" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4.1.0/icons/stackoverflow.svg" />][Stackoverflow]
+<br>
 
+<<<<<<< HEAD
 ### 🚀 Some Tools and Programming Languages I Have Used and Learned
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,js,cs,cpp,aws,vscode,visualstudio,idea,linux,blender,ai,figma,github,stackoverflow)](https://skillicons.dev)
 
@@ -35,9 +45,31 @@
 
 ---
 
+=======
+## 🚀 Some Tools and Programming Languages I Have Used and Learned
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,js,cs,cpp,aws,vscode,visualstudio,linux,blender,ai,figma,github,stackoverflow)](https://skillicons.dev)
+
+---
+
+### 📈 GitHub stats
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=HichamAf&theme=dracula"/></p>
+
+
+
+>>>>>>> 8657a495a9e0ea7b939c45fb306ac1192fbbec43
 [Website]: https://HichamAf.github.io
 [Linkedin]: https://linkedin.com/in/hichamafilali
 [Stackoverflow]: https://stackoverflow.com/users/15039665/hicham?tab=profile
 [Twitter]: https://twitter.com/HichamAfilali
 [Youtube]: https://www.youtube.com/@azouranzar6285
+<<<<<<< HEAD
 [Instagram]: https://www.instagram.com/aksilazar/
+=======
+[Instagram]: https://www.instagram.com/aksilazar/
+
+### 🙊 A little laughter for you
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=dracula)
+
+<!-- [![Header](https://raw.githubusercontent.com/zluvsand/zluvsand/master/header.png "Header")](https://medium.com/@zluvsand) -->
+<!-- <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/source.gif" width="280" height="auto" /></a> -->
+>>>>>>> 8657a495a9e0ea7b939c45fb306ac1192fbbec43
