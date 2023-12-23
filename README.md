@@ -7,22 +7,24 @@
 ## I'm a passionate developer, and Community Lover!!
 - 🔭 I'm currently studying IT at Metropolia University of Applied Sciences.
 - 🌱 Relevant Coursework:<br>
+	- AWS Cloud Basics <br>
+ 	- Linux Essentials<br>
 	- IP-Networks<br>
-	- Linux Essentials<br>
-	- Programming Fundamentals (Java, C#, C++, Python)<br>
+ 	- Relational Databases & SQL<br>
+	- Mobile software development<br>
+	- RESTful web services<br>
+ 	- Web Development (HTML, CSS, JavaScript)<br>
+	- Programming Fundamentals (Java, Python, C++)<br>
 	- OOP<br>
 	- Algorithms and Data Structures<br>
-	- Relational Databases & SQL<br>
-	- Mobile software development<br>
-	- Web Development (HTML, CSS, JavaScript)<br>
-	- RESTful web services<br>
-- 🥅 2024 Goals: Certified Information Systems Security Professional (CISSP).
-- 📫 How to reach me <a href="https://HichamAf.github.io/"><img src="https://img.shields.io/badge/WEBSITE-12100E?logo=html5&color=1DA1F2&logoColor=white" /></a>
+
+- 🥅 Goals: master Cloud Computing.
+- 📫 How to reach me <a href="https://HichamAf.github.io/"><em>Website</em></a> <!-- <img src="https://img.shields.io/badge/WEBSITE-12100E?logo=html5&color=1DA1F2&logoColor=white" /> -->
 - 👯 I’m looking to collaborate with other developers
 - ⚡ Fun fact **I love to learn new technologies**
 
 ### 🚀 Some Tools and Programming Languages I Have Used and Learned
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,cs,cpp,js,aws,vscode,visualstudio,idea,linux,blender,ai,figma,github,stackoverflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,linux,react,spring,java,python,kotlin,cpp,js,mysql,blender,ai,figma,git)](https://skillicons.dev)
 
 ### 🙊 A little laughter for you
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=algolia)
