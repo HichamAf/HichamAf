@@ -19,7 +19,7 @@
 	- Algorithms and Data Structures<br>
 
 - 🥅 Goals: master Cloud Computing.
-- 📫 How to reach me <a href="https://HichamAf.github.io/"><em>Website</em></a> <!-- <img src="https://img.shields.io/badge/WEBSITE-12100E?logo=html5&color=1DA1F2&logoColor=white" /> -->
+- 📫 How to reach me <a href="https://HichamAf.github.io/"><em>my portfolio</em></a> <!-- <img src="https://img.shields.io/badge/WEBSITE-12100E?logo=html5&color=1DA1F2&logoColor=white" /> -->
 - 👯 I’m looking to collaborate with other developers
 - ⚡ Fun fact **I love to learn new technologies**
 
