@@ -19,8 +19,8 @@
 	- Algorithms and Data Structures<br>
 - 🥇 Certification:<br>
 
-- 🎯 Goals: Master Cloud Computing.
-- 🌐 <a href="https://hichamaws.com/"><em>My portfolio</em></a> <!-- <img src="https://img.shields.io/badge/WEBSITE-12100E?logo=html5&color=1DA1F2&logoColor=white" /> -->
+<!-- - 🎯 Goals: Master Cloud Computing. -->
+- 🌐 <a href="https://hichamaf.github.io/"><em>My portfolio</em></a> <!-- <img src="https://img.shields.io/badge/WEBSITE-12100E?logo=html5&color=1DA1F2&logoColor=white" /> -->
 - 🏗️ I’m looking to collaborate with other developers
 - ⚡ Fun fact **I enjoy learning Cloud Technology**
 
