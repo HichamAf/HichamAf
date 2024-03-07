@@ -25,7 +25,7 @@
 - ⚡ Fun fact **I enjoy learning Cloud Technology**
 
 ### 🚀 Some Tools and Programming Languages I Have Used and Learned
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,linux,git,react,spring,java,python,kotlin,cpp,js,mysql,blender,ai,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,react,js,mysql,spring,java)](https://skillicons.dev)
 
 ### 🙊 A little laughter for you
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=algolia)
