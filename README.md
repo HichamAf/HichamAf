@@ -7,8 +7,6 @@
 ## I'm a passionate developer, and Community Lover!!
 <!-- - 🥇 Certification:<br> -->
 - 🌐 <a href="https://hichamaf.github.io/"><em>My portfolio</em></a> <!-- <img src="https://img.shields.io/badge/WEBSITE-12100E?logo=html5&color=1DA1F2&logoColor=white" /> -->
-- ⚡ Fun fact **I enjoy learning Cloud Technology**
-
 ### 🚀 Some Tools and Programming Languages I Have Used and Learned
 [![My Skills](https://skillicons.dev/icons?i=git,react,js,mysql,spring,java)](https://skillicons.dev)
 
