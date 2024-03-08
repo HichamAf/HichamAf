@@ -10,12 +10,11 @@
 ### Tools and Programming Languages I Have Used and Learned
 [![My Skills](https://skillicons.dev/icons?i=git,react,js,mysql,spring,java)](https://skillicons.dev)
 
-### 🙊 A little laughter for you
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=algolia)
+<!-- ### 🙊 A little laughter for you 
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=algolia) -->
 
 ### Connect with me
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]
+
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
 
-[Website]: https://hichamaws.com/
 [Linkedin]: https://linkedin.com/in/hichamafilali
