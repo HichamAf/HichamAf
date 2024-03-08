@@ -5,11 +5,8 @@
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=HichamAf&theme=algolia"/></p>
 
 ## I'm a passionate developer, and Community Lover!!
-- 🥇 Certification:<br>
-
-<!-- - 🎯 Goals: Master Cloud Computing. -->
+<!-- - 🥇 Certification:<br> -->
 - 🌐 <a href="https://hichamaf.github.io/"><em>My portfolio</em></a> <!-- <img src="https://img.shields.io/badge/WEBSITE-12100E?logo=html5&color=1DA1F2&logoColor=white" /> -->
-- 🏗️ I’m looking to collaborate with other developers
 - ⚡ Fun fact **I enjoy learning Cloud Technology**
 
 ### 🚀 Some Tools and Programming Languages I Have Used and Learned
