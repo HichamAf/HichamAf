@@ -5,18 +5,6 @@
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=HichamAf&theme=algolia"/></p>
 
 ## I'm a passionate developer, and Community Lover!!
-- 👨🏻‍🎓 I'm currently studying IT at Metropolia University of Applied Sciences.
-- 👨🏻‍💻 Relevant Coursework:<br>
-	- AWS Cloud Basics <br>
- 	- Linux Essentials<br>
-	- IP-Networks<br>
- 	- Relational Databases & SQL<br>
-	- Mobile software development<br>
-	- RESTful web services<br>
- 	- Web Development (HTML, CSS, JavaScript)<br>
-	- Programming Fundamentals (Java, Python, C++)<br>
-	- OOP<br>
-	- Algorithms and Data Structures<br>
 - 🥇 Certification:<br>
 
 <!-- - 🎯 Goals: Master Cloud Computing. -->
