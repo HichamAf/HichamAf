@@ -8,7 +8,7 @@
 <!-- - 🥇 Certification:<br> -->
 🌐 <a href="https://hichamaf.github.io/"><em>My portfolio</em></a> <!-- <img src="https://img.shields.io/badge/WEBSITE-12100E?logo=html5&color=1DA1F2&logoColor=white" /> -->
 ### Tools and Programming Languages I Have Used and Learned
-[![My Skills](https://skillicons.dev/icons?i=js,react,java,spring,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,js,react,java,spring,git)](https://skillicons.dev)
 
 <!-- ### 🙊 A little laughter for you 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=algolia) -->
