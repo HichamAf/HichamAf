@@ -1,21 +1,18 @@
-### Welcome!
-<!-- ### whoami -->
+*Hi! I'm a software developer passionate about building efficient and scalable applications.  
+I enjoy exploring new technologies.*
+<br>______________________</br>
+### *Skills*
+- *Languages: Golang, JavaScript, HTML, CSS*
+- *Frameworks & Tools: Node.js, React*
+- *Databases: PostgreSQL, MongoDB*
 
-[![Website](https://img.shields.io/website?label=HichamAf.github.io&style=for-the-badge&url=https%3A%2F%2FHichamAF.github.io)](https://HichamAf.github.io)
-[![Twitter Follow](https://img.shields.io/twitter/follow/HichamAfilali?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FHichamAf&screen_name=HichamAfilali)
+[![My Skills](https://skillicons.dev/icons?i=golang,javascript,nodejs,react,postgres,mongodb)](https://skillicons.dev)
+<br>______________________</br>
+### *Currently Working On*
+- *Improving my Golang microservices projects*
+- *Building interactive JavaScript web apps*
 
-<!-- <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=HichamAf&theme=algolia"/></p> -->
-
-<!-- - 🥇 Certification:<br> -->
-🌐 <a href="https://hichamaf.github.io/"><em>My portfolio</em></a> <!-- <img src="https://img.shields.io/badge/WEBSITE-12100E?logo=html5&color=1DA1F2&logoColor=white" /> -->
-### Tools and Programming Languages I Have Used and Learned
-[![My Skills](https://skillicons.dev/icons?i=golang,javascript)](https://skillicons.dev)
-
-<!-- ### 🙊 A little laughter for you 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=algolia) -->
-
-### Connect with me
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
-
-[Linkedin]: https://linkedin.com/in/hichamafilali
+<br>______________________</br>
+[![Portfolio](https://img.shields.io/badge/-black?style=for-the-badge&logo=github&logoColor=white)](https://HichamAF.github.io)
+[![X](https://img.shields.io/badge/-black?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/HichamAfilali)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&label=)](https://linkedin.com/in/hichamafilali)
