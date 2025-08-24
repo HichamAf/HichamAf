@@ -1,4 +1,5 @@
-*Hi! I'm a software developer passionate about building efficient and scalable applications.  
+*Hi! I'm Hicham*
+<!-- a software developer passionate about building efficient and scalable applications.  
 I enjoy exploring new technologies.*
 <br>______________________</br>
 ### *Skills*
@@ -12,7 +13,7 @@ I enjoy exploring new technologies.*
 - *Improving my Golang microservices projects*
 - *Building interactive JavaScript web apps*
 
-<br>______________________</br>
-[![Portfolio](https://img.shields.io/badge/-black?style=for-the-badge&logo=github&logoColor=white)](https://HichamAF.github.io)
+<br>______________________</br> 
+[![Portfolio](https://img.shields.io/badge/-black?style=for-the-badge&logo=github&logoColor=white)](https://HichamAF.github.io) -->
 [![X](https://img.shields.io/badge/-black?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/HichamAfilali)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&label=)](https://linkedin.com/in/hichamafilali)
